@@ -92,4 +92,4 @@ In future iterations, additional features could include interactive elements, su
 <img src="https://i.imgur.com/sV3HhA1.png" alt="Desktop wireframe for hero and common issues sections">
 <img src="https://i.imgur.com/SENINcX.png" alt="Desktop wireframe for managing stress section">
 <img src="https://i.imgur.com/1tpjoWN.png" alt="Desktop wireframe for resources section">
-<img src="https://i.imgur.com/SXyx9Hf.png" alt="Desktop wireframe for news and updates section">
+<img src="https://i.imgur.com/T7YMV9O.png" alt="Desktop wireframe for news and updates section">
