@@ -41,6 +41,7 @@ This project is a single-page, responsive website designed to provide accessible
 <ul>
   <li>A welcoming hero section with a calming background, introducing the site’s purpose and reinforcing its focus on mental health support.</li>
   <li>Features a brief description of the website’s objectives, using Bootstrap’s Jumbotron or header styling for a prominent yet soothing look.</li>
+  <li>Positive affirmations will display in a carousel.</li>
 </ul>
 
 
@@ -55,14 +56,7 @@ This project is a single-page, responsive website designed to provide accessible
 
 <ul>
   <li>A dedicated section offering practical tips on managing stress, presented in a clear and approachable format.</li>
-  <li>Tips will be organised using Bootstrap’s list group component for readability.</li>
-</ul>
-
-<h3>Positive Affirmations</h3>
-
-<ul>
-  <li>An uplifting section featuring positive affirmations or supportive quotes to encourage and inspire users as they navigate the page.</li>
-  <li>Styled with Bootstrap’s text utilities, this section will use gentle colours or background gradients for a comforting effect.</li>
+  <li>Tips will be organised using Bootstrap’s accordian component for readability.</li>
 </ul>
 
 <h3>Resources</h3>
@@ -70,6 +64,7 @@ This project is a single-page, responsive website designed to provide accessible
 <ul>
   <li>A list of trusted mental health resources, each displayed as a clickable button styled with Bootstrap’s button classes.</li>
   <li>Links will open in new tabs, making it easy for users to access further information without losing their place on the page.</li>
+  <li>Will also include video content with a media player.</li>
 </ul>
 
 <h3>News and Updates (Optional)</h3>
@@ -77,6 +72,7 @@ This project is a single-page, responsive website designed to provide accessible
 <ul>
   <li>A section with brief descriptions of new resources or articles related to mental health, allowing users to stay informed about new information.</li>
   <li>Includes an option to subscribe to a newsletter or access additional updates if needed.</li>
+  <li>Carousel showing popular articles that the user can jump to</li>
 </ul>
 
 
