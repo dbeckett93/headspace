@@ -83,3 +83,17 @@ This project is a single-page, responsive website designed to provide accessible
 <h2>Future Enhancements</h2>
 **
 In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
+
+<h2>Wireframes</h2>
+
+<h3>Mobile</h3>
+<img src="https://i.imgur.com/ZEPJhHr.png" alt="Mobile wireframe for all sections">
+
+<h3>Tablet</h3>
+<img src="https://i.imgur.com/D4B0bla.png" alt="Tablet wireframe for all sections">
+
+<h3>Desktop</h3>
+<img src="https://i.imgur.com/sV3HhA1.png" alt="Desktop wireframe for hero and common issues sections">
+<img src="https://i.imgur.com/SENINcX.png" alt="Desktop wireframe for managing stress section">
+<img src="https://i.imgur.com/1tpjoWN.png" alt="Desktop wireframe for resources section">
+<img src="https://i.imgur.com/SXyx9Hf.png" alt="Desktop wireframe for news and updates section">
