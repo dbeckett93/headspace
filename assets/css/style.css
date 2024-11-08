@@ -1,0 +1,27 @@
+/* General */
+
+body {
+    background-color: #9ec1cf;
+}
+
+/* Hero Section */
+.hero {
+    background: url('../images/hero.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #305377;
+    padding: 1rem 0;
+}
+
+
+#cover-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgb(211, 230, 236, 0.9);
+    color: black;
+    font-size: 120%;
+    width: 20%;
+    min-width: 320px;
+padding: 30px;
+border-radius: 10%;
+}
