@@ -1,7 +1,28 @@
-/* General */
+/* Google font imports */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap'); /* Merriweather */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'); /* Roboto */
 
+/* General */
 body {
-    background-color: #9ec1cf;
+    background-color: #9ec1cf; /* Light blue */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* General Card Styles */
+.card-body > p {
+    min-height: 220px;
+}
+
+.card-title {
+    min-height: 50px;
 }
 
 /* Hero Section */
@@ -10,14 +31,14 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: #305377;
+    background-color: #305377; /* Dark blue */
     padding: 1rem 0;
 }
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgb(211, 230, 236, 0.9);
-    color: black;
+    background-color: rgb(211, 230, 236, 0.9); /* Light blue */
+    color: black; /* Black text */
     font-size: 120%;
     width: 20%;
     min-width: 330px;
@@ -30,3 +51,13 @@ body {
 #cover-text .small {
     font-size: 70%;
 }
+
+/* Main Section */
+
+.introduction {
+    background-color: #305377; /* Dark blue */
+    color: white; /* White text */
+    padding: 1rem 0;
+}
+
+/* Common Issues Section */
