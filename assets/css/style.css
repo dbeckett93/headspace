@@ -76,3 +76,17 @@ p {
     background-color: #305377; /* Dark blue */
     color: white; /* White text */
 }
+
+/* Popular Articles Section Carousel */
+
+.popular-container {
+    background-color: #305377; /* Dark blue */
+    color: white; /* White text */
+    padding: 1rem 0;
+}
+
+.carousel-item h5 {
+    font-size: 1.5rem;
+    color: white; /* White text */
+    text-decoration: underline;
+}
