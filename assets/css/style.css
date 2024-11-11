@@ -69,3 +69,10 @@ p {
 #managing-stress {
     background-color: #d3e6ec; /* Light blue */
 }
+
+/* Resources Section */
+
+#resources {
+    background-color: #305377; /* Dark blue */
+    color: white; /* White text */
+}
