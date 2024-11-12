@@ -143,5 +143,4 @@ The background and foreground combinations have been tested for good colour cont
 <img src="https://i.imgur.com/by8Y78X.png" alt="An article with a publish date visible">
 
 <h2>Future Enhancements</h2>
-**
 In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
