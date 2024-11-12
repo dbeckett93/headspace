@@ -61,6 +61,12 @@ p {
     min-height: 50px;
 }
 
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 /* Hero Section */
 .hero {
     background: url('../images/hero.webp');
@@ -108,9 +114,12 @@ p {
 
 /* Article Section */
 
-.articles img {
-    max-height: 100px;
-    max-width: 100px;
+#articles img {
+    max-height: 400px;
+    max-width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* #articles h2 {
