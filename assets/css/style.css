@@ -37,6 +37,16 @@ p {
     font-family: var(--font-sans);
 }
 
+.section-light {
+    background-color: var(--light-bg);
+    color: var(--dark-text);
+}
+
+.section-dark {
+    background-color: var(--dark-bg);
+    color: var(--light-text);
+}
+
 /* General Card Styles */
 .card-body>p {
     min-height: 220px;
@@ -76,35 +86,18 @@ p {
 /* Main Section */
 
 .introduction {
-    background-color: var(--dark-bg);
-    color: var(--light-text);
     padding: 1rem 0;
-}
-
-/* Managing Stress Section */
-
-#managing-stress {
-    background-color: var(--light-bg);
-}
-
-/* Resources Section */
-
-#resources {
-    background-color: var(--dark-bg);
-    color: var(--light-text);
 }
 
 /* Popular Articles Section Carousel */
 
 .popular-container {
-    background-color: var(--dark-bg);
-    color: var(--light-text);
     padding: 1rem 0;
 }
 
 .carousel-item h5 {
     font-size: 1.5rem;
-    color: var(--light-text);
+    color: var(--dark-text);
     text-decoration: underline;
 }
 
@@ -115,7 +108,6 @@ p {
     max-width: 100px;
 }
 
-.article-alt-bg {
-    background-color: var(--dark-bg);
-    color: var(--light-text);
+.article {
+
 }
