@@ -75,11 +75,6 @@ This project is a single-page, responsive website designed to provide accessible
   <li>Carousel showing popular articles that the user can jump to</li>
 </ul>
 
-
-<h2>Future Enhancements</h2>
-**
-In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
-
 <h2>Wireframes</h2>
 
 <h3>Mobile</h3>
@@ -93,3 +88,60 @@ In future iterations, additional features could include interactive elements, su
 <img src="https://i.imgur.com/SENINcX.png" alt="Desktop wireframe for managing stress section">
 <img src="https://i.imgur.com/1tpjoWN.png" alt="Desktop wireframe for resources section">
 <img src="https://i.imgur.com/T7YMV9O.png" alt="Desktop wireframe for news and updates section">
+
+<h2>Colour Scheme</h2>
+
+<img src="https://i.imgur.com/lcS17pO.png" alt="Colour palette used for the site">
+
+<strong>Body Background (Light Blue - #B0D1DE):</strong> This light blue tone serves as the main background colour across the site, setting a calming and tranquil foundation. Light blue is known for its association with peace and relaxation, helping users feel at ease as they navigate mental health information.
+
+<strong>Light Background (Periwinkle - #CCDCFF):</strong> This soft, periwinkle blue offers a gentle contrast to the body background, creating subtle visual separation for sections without feeling harsh or distracting. Periwinkle combines the serenity of blue with a hint of energy from violet, balancing calmness with a welcoming feel.
+
+<strong>Dark Background (Dark Blue - #1D3752):</strong> This deep blue tone is used for headers, footers, and other prominent sections, grounding the design with a sense of professionalism and stability. Dark blue is often associated with trust and reliability, conveying a sense of safety and authority that’s important for a mental health site.
+
+<strong>Light Text (White - #ffffff):</strong> White text contrasts cleanly against the dark background areas, ensuring high readability for key information. White, as a neutral tone, adds a sense of clarity and space.
+
+<strong>Dark Text (Black - #000000):</strong> Black text is used against lighter backgrounds to maintain strong readability and contrast, balancing the design with a clear and direct visual impact.
+
+By combining calming blues with balanced neutrals, this colour scheme reinforces the site’s mission to provide a professional, yet soothing user experience that encourages users to feel comfortable exploring mental health topics.
+
+<h2>Colour Contrast Checks</h2>
+
+The background and foreground combinations have been tested for good colour contrast.
+
+<img src="https://i.imgur.com/C5q7Tg9.png" alt="Contrast check for a light background and dark text">
+
+<img src="https://i.imgur.com/qr3fOyQ.png" alt="Contrast check for a dark background and light text">
+
+
+<h2>Typography</h2>
+
+<strong>Serif Font (‘Merriweather’):</strong> The Merriweather serif font brings a classic, approachable feel to headers or highlighted text, giving a touch of warmth and readability. Its slight elegance fits well with the professional tone, while remaining soft and welcoming.
+
+<strong>Sans-Serif Font (‘Roboto’):</strong> Roboto is used for the main body text, providing clarity and modernity in a straightforward, highly readable style. As a sans-serif font, it maintains a clean, accessible look, perfect for easily digesting information.
+
+<h2>Notable Deviations from Wireframes in Final Design</h2>
+
+<p>The hero section has the carousel for positive affirmations displaying directly over it instead of being positioned along the bottom of the div. This was done as it became clear that is was much more readable when placed on top of the hero image instead of being only partly covered.</p>
+
+<img src="https://i.imgur.com/oXqVLkh.png" alt="Hero section showing the positive affirmation carousel">
+
+<p>In the resources section the scaling on medium screens (tablets and up) was changed to remain as col-md-12 for the first six cards and col-md-4 for the mental health support group resources. The scaling of 9 cards with col-md-4 on each of them resulted in wasted space that was a poor user experience.</p>
+
+<img src="https://i.imgur.com/nlsusw1.png" alt="A view of the resource section on a responsive tablet sized screen, col-12 and col-4 cards are visible">
+
+<p>An additional navigation item has been added for 'Articles'. This was to better segment the page.</p>
+
+<img src="https://i.imgur.com/F9lDSy1.png" alt="Navbar showing all links for the website">
+
+<p>Additional headings added to distinguish popular articles and all articles. The border was extended around the popular article carousel to include the header.</p>
+
+<img src="https://i.imgur.com/qnqzCEo.png" alt="The news and updates section showing the different headings">
+
+<p>Articles have had a publish date included in them. Images are also included that are not present on the wireframes.</p>
+
+<img src="https://i.imgur.com/by8Y78X.png" alt="An article with a publish date visible">
+
+<h2>Future Enhancements</h2>
+**
+In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
