@@ -152,9 +152,10 @@ A number of tools have been used to make sure that the HTML and CSS for the site
 <h3>HTML</h3>
 Result via. https://validator.w3.org
 
-<img src="https://i.imgur.com/9uTt3OF.png" alt="An article with a publish date visible">
+<img src="https://i.imgur.com/9uTt3OF.png" alt="HTML validation results">
 
 <h3>CSS</h3>
+Result via. https://jigsaw.w3.org/css-validator/
+<img src="https://i.imgur.com/JMfOSZn.png" alt="CSS validation results">
 
-
-
+<h3>Lighthouse</h3>
