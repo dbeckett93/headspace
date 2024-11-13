@@ -145,6 +145,42 @@ The background and foreground combinations have been tested for good colour cont
 <h2>Future Enhancements</h2>
 In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
 
+## Built With
+
+### Technologies and Languages
+![Static Badge](https://img.shields.io/badge/HTML5-Language-grey?logo=html5&logoColor=%23ffffff&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-Language-grey?logo=css3&logoColor=%23ffffff&color=%231572B6)
+
+<a href="https://git-scm.com/" target=_blank_>![Static Badge](https://img.shields.io/badge/Git-v2.46.2-grey?logo=git&logoColor=%23ffffff&color=%23F05032)</a>
+
+<a href="https://github.com/" target="_blank">![Static Badge](https://img.shields.io/badge/GitHub-Repo_Hosting-white?logo=github&logoColor=%23ffffff&color=%23181717)</a>
+
+<a href="https://www.gitpod.io/" target="_blank">![Static Badge](https://img.shields.io/badge/Gitpod-IDE-white?logo=gitpod&logoColor=%23ffffff&color=%23FFAE33)</a>
+
+### Libraries and Frameworks
+<a href="https://getbootstrap.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Bootstrap-v5.3.3-grey?logo=bootstrap&logoColor=%23ffffff&color=%237952B3)</a>
+
+<a href="https://fontawesome.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Font_Awesome-Icons-grey?logo=fontawesome&logoColor=%23ffffff&color=%23538DD7)</a>
+
+<a href="https://fonts.google.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Google_Fonts-Fonts-grey?logo=googlefonts&logoColor=%23ffffff&color=%234285F4)</a>
+
+
+
+### Tools and Programs
+<a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
+
+<a href="https://copilot.microsoft.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Copilot-AI-green)</a>
+
+<a href="https://coolors.co/" target="_blank">![Static Badge](https://img.shields.io/badge/Coolors-Colour_Palette-white)</a>
+
+<a href="https://cloudconvert.com/png-to-webp" target="_blank">![Static Badge](https://img.shields.io/badge/Cloud_Convert-Image_Conversion-purple)</a>
+
+<a href="https://tinypng.com/" target="_blank">![Static Badge](https://img.shields.io/badge/TinyPNG-Image_Optimisation-purple)</a>
+
+### Media
+<a href="https://unsplash.com" target="_blank">![Static Badge](https://img.shields.io/badge/Unsplash-Images-purple)</a>
+
+
 <h2>Validation, Accessibility and Performance</h2>
 
 A number of tools have been used to make sure that the HTML and CSS for the site is without errors.
@@ -159,3 +195,8 @@ Result via. https://jigsaw.w3.org/css-validator/
 <img src="https://i.imgur.com/JMfOSZn.png" alt="CSS validation results">
 
 <h3>Lighthouse</h3>
+Via <a href="https://developer.chrome.com/docs/lighthouse/overview" target="_blank">Lighthouse</a>
+<img src="https://i.imgur.com/pZwqaVJ.png" alt="Lighthouse performance results">
+
+Unfortunately the embedded YouTube videos and carousels are having a noticeable impact on the scores for page performance and best practices. Steps have been taken to reduce the impact by using lazy loading and YouTube's suggested embed code. <a href="https://github.com/paulirish/lite-youtube-embed" target="_blank">lite-youtube-embed</a> was considered but since it's not just using HTML and CSS it sits outside the scope of this project.
+
