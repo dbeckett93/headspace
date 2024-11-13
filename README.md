@@ -144,3 +144,17 @@ The background and foreground combinations have been tested for good colour cont
 
 <h2>Future Enhancements</h2>
 In future iterations, additional features could include interactive elements, such as a quiz to help users assess stress levels, or a comments section where users can share experiences and tips.
+
+<h2>Validation, Accessibility and Performance</h2>
+
+A number of tools have been used to make sure that the HTML and CSS for the site is without errors.
+
+<h3>HTML</h3>
+Result via. https://validator.w3.org
+
+<img src="https://i.imgur.com/9uTt3OF.png" alt="An article with a publish date visible">
+
+<h3>CSS</h3>
+
+
+
