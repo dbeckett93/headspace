@@ -40,7 +40,7 @@ This project is a single-page, responsive website designed to provide accessible
 
 <ul>
   <li>A welcoming hero section with a calming background, introducing the site’s purpose and reinforcing its focus on mental health support.</li>
-  <li>Features a brief description of the website’s objectives, using Bootstrap’s Jumbotron or header styling for a prominent yet soothing look.</li>
+  <li>Features a brief description of the website’s objectives.</li>
   <li>Positive affirmations will display in a carousel.</li>
 </ul>
 
@@ -97,7 +97,7 @@ This project is a single-page, responsive website designed to provide accessible
 
 <strong>Light Background (Periwinkle - #CCDCFF):</strong> This soft, periwinkle blue offers a gentle contrast to the body background, creating subtle visual separation for sections without feeling harsh or distracting. Periwinkle combines the serenity of blue with a hint of energy from violet, balancing calmness with a welcoming feel.
 
-<strong>Dark Background (Dark Blue - #1D3752):</strong> This deep blue tone is used for headers, footers, and other prominent sections, grounding the design with a sense of professionalism and stability. Dark blue is often associated with trust and reliability, conveying a sense of safety and authority that’s important for a mental health site.
+<strong>Dark Background (Cello - #1D3752):</strong> This deep blue tone is used as an alternate background with white text to provide contrast between sections on the site. Dark blue is often associated with trust and reliability, conveying a sense of safety and authority that’s important for a mental health site.
 
 <strong>Light Text (White - #ffffff):</strong> White text contrasts cleanly against the dark background areas, ensuring high readability for key information. White, as a neutral tone, adds a sense of clarity and space.
 
